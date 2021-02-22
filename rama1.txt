@@ -1,2 +1,6 @@
 Fichero rama1 en el decimo apartado
+<<<<<<< HEAD
 Realizo cambios en rama1 y lo valido en rama master
+=======
+Realizo cambios en rama1
+>>>>>>> mirama
